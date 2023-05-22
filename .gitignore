@@ -5,3 +5,4 @@ uploads/*.png
 uploads/*.jpg
 uploads/*.jpeg
 uploads/*.jfif
+.env
